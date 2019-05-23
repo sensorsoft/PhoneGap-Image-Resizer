@@ -1,0 +1,22 @@
+{
+  "name": "com.raananw.imageResizer",
+  "version": "0.1.2",
+  "description": "Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.0 and above",
+  "cordova": {
+    "id": "com.raananw.imageResizer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaananW/PhoneGap-Image-Resizer.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": ["yilei","liye","giscafer","its"],
+  "license": "ISC"
+}
